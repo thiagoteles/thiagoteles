@@ -3,7 +3,6 @@
     <img style="height: 20px;" src="https://badgen.net/uptime-robot/day/m780862024-50db2c44c703e5c68d6b1ebb" />
     <img style="height: 20px;" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
     <img style="height: 20px;" style="height: 20px;" src="http://ForTheBadge.com/images/badges/built-with-science.svg" />
-    <img style="height: 20px;" style="height: 20px;" src="https://badgen.net/david/dev/zeit/pkg" />
 </div>
 
 ### Contact
