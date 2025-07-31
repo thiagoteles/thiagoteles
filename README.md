@@ -8,8 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoteles/)
 
-![Thiago Teles's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoteles&include_all_commits=true&count_private=true&hide=stars,prs)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoteles&langs_count=8&count_private=true&include_all_commits=true)](https://github.com/thiagoteles)
 
 <div style="display: inline_block">
